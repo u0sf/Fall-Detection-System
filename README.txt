@@ -21,4 +21,4 @@ To run this project, you need:
 ## Installation
 1. Clone the repository:
    ```bash
-    git clone https://github.com/u0sf/Fall-Detection-System.git
+      git clone https://github.com/u0sf/Fall-Detection-System.git
